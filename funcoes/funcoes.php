@@ -6,7 +6,7 @@
 //}
 
 
-//Boa pratica é informar o dipo desejado dos parametros das funções
+//Boa prática é informar o tipo desejado dos parametros das funções
 function escreverMensagem(string $mensagem): void
 {
     echo $mensagem . PHP_EOL;
