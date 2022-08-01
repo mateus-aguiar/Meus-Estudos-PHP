@@ -5,7 +5,6 @@
 // Variavel ?? retorno caso não tenha valor;
 
 $user = [
-
     'Idade' => 19,
 ];
 
